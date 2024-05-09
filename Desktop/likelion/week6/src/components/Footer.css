@@ -1,0 +1,23 @@
+#footer {
+    display: flex;
+height: 16px;
+padding-right: 0px;
+justify-content: center;
+align-items: flex-end;
+gap: 19.771px;
+}
+
+span {
+    color: #929292;
+font-family: "Noto Sans";
+font-size: 10px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+border-right: 1px solid #929292;
+padding-right: 19.7px;
+}
+
+span:last-child {
+    border: none;
+}

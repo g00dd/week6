@@ -1,0 +1,19 @@
+#button {
+    display: flex;
+width: 378px;
+height: 52px;
+padding: 17px 0px;
+justify-content: center;
+align-items: center;
+border-radius: 7px;
+background:#85D6D1;
+}
+
+span {
+    color: #000;
+font-family: Pretendard;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 127.336%; /* 17.827px */
+}
